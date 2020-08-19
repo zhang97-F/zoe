@@ -1,0 +1,3 @@
+echo "hello world"
+echo "hello 0240"
+echo "xiugai hhh"
